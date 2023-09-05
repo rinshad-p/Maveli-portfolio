@@ -579,7 +579,7 @@ nav .fas{
 
     #article .container{
         height: auto;
-        padding-top: 2rem;
+        padding-top: 7rem;
         margin-bottom: 3rem;
     }
     #article .article-list{
@@ -590,7 +590,10 @@ nav .fas{
     }
     #onam .container{
         height: auto;
-        padding-top: 5rem;    
+        padding-top: 6rem;    
+    }
+    #onam .sub-title h1{
+        font-size: 45px;
     }
     #onam .p-body{
         grid-template-columns: repeat(auto-fit, minmax(250px, auto));
@@ -599,7 +602,9 @@ nav .fas{
     }
     #contact .container{
         height: auto;
-    }    
+        
+    } 
+    
     .c-left h1{
         margin-bottom: 2rem;
     }
